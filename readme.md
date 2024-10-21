@@ -1,5 +1,7 @@
 # Amplify Integration - Stock API
 
+THIS PROJECT IS OBSOLETED AND REPLACED BY [THIS PROJECT](https://github.com/lbrenman/ai-stockquote-fh)!!!!
+
 A stock quote and watch list API based on [**Finnhub**](https://finnhub.io/) created in Amplify Integration using Amplify Integration API First features
 
 The project exposes two end points
